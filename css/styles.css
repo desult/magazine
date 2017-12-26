@@ -1,0 +1,17 @@
+a {
+  text-decoration: none; }
+
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #b8d1be;
+  padding: 1px 50px; }
+
+nav ul {
+  margin: 0px;
+  list-style: none; }
+
+body {
+  background-color: #efefef; }
+
+/*# sourceMappingURL=styles.css.map */
